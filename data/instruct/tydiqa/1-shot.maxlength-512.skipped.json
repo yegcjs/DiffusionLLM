@@ -1,0 +1,28 @@
+{
+    "train": {
+        "arabic": 2437,
+        "bengali": 889,
+        "english": 387,
+        "finnish": 339,
+        "indonesian": 267,
+        "japanese": 790,
+        "korean": 324,
+        "russian": 1030,
+        "swahili": 146,
+        "telugu": 1220,
+        "thai": 524
+    },
+    "validation": {
+        "arabic": 126,
+        "bengali": 46,
+        "english": 45,
+        "finnish": 43,
+        "indonesian": 21,
+        "japanese": 86,
+        "korean": 44,
+        "russian": 123,
+        "swahili": 19,
+        "telugu": 110,
+        "thai": 82
+    }
+}

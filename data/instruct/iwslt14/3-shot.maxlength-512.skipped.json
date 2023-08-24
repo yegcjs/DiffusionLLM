@@ -1,0 +1,10 @@
+{
+    "validation": {
+        "ende": 3,
+        "deen": 3
+    },
+    "test": {
+        "ende": 2,
+        "deen": 2
+    }
+}

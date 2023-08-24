@@ -1,0 +1,15 @@
+{
+	"flan_fs_noopt_train.jsonl": 0.1,
+	"flan_fs_opt_train.jsonl": 0.1,
+	"flan_zs_noopt_train.jsonl": 0.1,
+	"flan_zs_opt_train.jsonl": 0.1,
+	"t0_fs_noopt_train.jsonl": 0.106,
+	"t0_zs_noopt_train.jsonl": 0.107,
+	"t0_zs_opt_train.jsonl": 0.107,
+	"niv2_fs_opt_train.jsonl": 0.1,
+	"niv2_zs_opt_train.jsonl": 0.1,
+	"cot_fs_opt_train.jsonl": 0.025,
+	"cot_zs_opt_train.jsonl": 0.025,
+	"dialog_fs_opt_train.jsonl": 0.015,
+	"dialog_zs_opt_train.jsonl": 0.015
+}

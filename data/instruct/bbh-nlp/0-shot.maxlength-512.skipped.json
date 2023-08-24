@@ -1,0 +1,16 @@
+{
+    "validation": {
+        "causal_judgment": 3,
+        "date_understanding": 0,
+        "disambiguation_qa": 0,
+        "formal_fallacies_syllogisms_negation": 0,
+        "hyperbaton": 0,
+        "movie_recommendation": 0,
+        "penguins_in_a_table": 0,
+        "reasoning_about_colored_objects": 0,
+        "ruin_names": 0,
+        "salient_translation_error_detection": 0,
+        "snarks": 0,
+        "sports_understanding": 0
+    }
+}
