@@ -1,4 +1,4 @@
-mkir -p data/flan_2022
+mkdir -p data/flan_2022
 cp scripts/flan_2022_ratio.json data/flan_2022/ratio.json
 cd data/flan_2022
 

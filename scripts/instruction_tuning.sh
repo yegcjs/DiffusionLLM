@@ -14,7 +14,7 @@ while [ $# -gt 0 ]; do
     --output_dir=*)
         OUTPUT_DIR="${1#*=}"
         ;;
-    --steps=*)
+    --train_steps=*)
         MAX_TRAINING_STEPS="${1#*=}"
         ;;
     --mini_bsz=*)
