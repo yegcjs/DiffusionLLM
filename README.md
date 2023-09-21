@@ -137,6 +137,12 @@ bash scripts/eval_instruct.sh --data_paths="data/instruct/mgsm/0-shot/en.jsonl d
 The evaluation scripts will produce inference results under the `--output_dir`. 
 > examplary generation results can be found [here](https://gofile.io/d/bNZ8MM)
 
+## Checkpoints
+
+Model checkpoints are available at
+
+|[Flan XLM-R-BASE](https://gofile.io/d/DLAkl3)|[Flan XLM-R-LARGE](https://gofile.io/d/RvqQyS)|[Flan XLM-R-XL](https://gofile.io/d/4F7vzk)|[Flan XLM-R-XXL](https://gofile.io/d/d5vka1)|
+
 ## Citation
 
 ```
