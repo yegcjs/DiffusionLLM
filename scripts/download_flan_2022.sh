@@ -24,6 +24,7 @@ wget https://huggingface.co/datasets/SirNeural/flan_v2/resolve/main/niv2_fs_noop
 wget https://huggingface.co/datasets/SirNeural/flan_v2/resolve/main/niv2_zs_noopt_train.jsonl.gz
 wget https://huggingface.co/datasets/SirNeural/flan_v2/resolve/main/niv2_zs_opt_train.jsonl.gz
 
+cat flan_fs_opt_train_*.gz | gunzip -c > flan_fs_opt_train.jsonl
 unpigz *.gz
 
 cd ../..
